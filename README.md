@@ -5,12 +5,14 @@ A simple and intuitive Body Mass Index (BMI) Calculator built using Flutter. Thi
 ## Screenshots
 
 ### Main Screen
-![Main Screen](./path_to_your_image/Screenshot_1695446815.png)
+
+![Main Screen](https://github.com/user-attachments/assets/f77e606a-9463-4baa-a7d0-b24e34e1f958)
 
 ### Result Screen
-![Result Screen](./path_to_your_image/Screenshot_1695678876.png)
+![Result Screen](https://github.com/user-attachments/assets/8ed26be0-e247-4546-a4fb-0a4a8a632c44)
 
 ## Features
+
 
 - **Gender Selection**: Choose between male and female.
 - **Height Input**: Enter height using a slider for precise input.
